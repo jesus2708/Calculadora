@@ -1,0 +1,7 @@
+LIBRARY	     "CalculatorWeb"
+
+EXPORTS
+	HttpExtensionProc
+	GetExtensionVersion
+	TerminateExtension
+

@@ -1,0 +1,113 @@
+﻿body
+{
+	background-color:#FFDDBA;
+	font-size: 14px;
+	font-family:"Arial", "Helvetica", "sans-serif";
+}
+
+table.Data
+{
+	background-color:#FFB56B;
+	border-style:solid;
+	border-width:1px;
+	border-color:#A0A0A0;
+}
+
+tr.Data
+{
+	background-color:#F0F0F0;
+}
+
+input.CalendarSelected
+{
+	text-align: center; 
+	width:100%;
+	font-size: 14px; 
+	font-family: "Arial", "Helvetica", "sans-serif";
+	background: #FFE56B;
+	color: #604010;
+	font-weight:bold;
+} 
+
+input
+{
+	font-size:14px;
+	font-family:"Arial", "Helvetica", "sans-serif";
+}
+
+select
+{
+	font-size:14px;
+	font-family:"Arial", "Helvetica", "sans-serif";
+}
+
+textarea
+{
+	font-size:14px;
+	font-family:"Arial", "Helvetica", "sans-serif";
+}
+
+table
+{
+	font-size:14px;
+	font-family:"Arial", "Helvetica", "sans-serif";
+}
+
+span
+{
+	font-size:14px;
+	font-family:"Arial", "Helvetica", "sans-serif";
+}
+
+.CalendarDayNames 
+{
+	text-align: center;
+	font-size:14px; 
+	color: #807020; 
+	font-family:"Arial", "Helvetica", "sans-serif";
+}
+
+input.CalendarMonth
+{
+	text-align: center; 
+	width:100%;
+	font-size: 14px; 
+	font-family: "Arial", "Helvetica", "sans-serif";
+	background: #F5F5F5;
+	color: #000000;
+	font-weight:normal;
+}
+
+input.CalendarNoMonth
+{
+	text-align: center; 
+	width:100%;
+	font-size: 14px; 
+	font-family: "Arial", "Helvetica", "sans-serif";
+	background: #E0E0E0;
+	color: #C0C0C0;
+	font-weight:normal;
+}
+
+.Header
+{
+	background-color:#FFB56B;
+	color:#705000;
+	border-style:none;
+}
+
+div.Data
+{
+	background-color:#FFFFFF;
+	border-style:solid;
+	border-width:1px;
+	border-color:#A0A0A0;
+	overflow-y: scroll;
+}
+
+.Clean
+{
+	border-width: 0px;
+	border-style: none;
+	text-decoration: none;
+}

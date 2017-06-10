@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx;user</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;manifest;mfcribbon - ms</Extensions>
+    </Filter>
+    <Filter Include="Style Sheet Files">
+      <UniqueIdentifier>{87619B6D-DC85-4965-BE8C-D896B956277F}</UniqueIdentifier>
+      <Extensions>css;xsl</Extensions>
+    </Filter>
+    <Filter Include="Script Files">
+      <UniqueIdentifier>{41396073-CB55-4584-8034-E5A29380A92F}</UniqueIdentifier>
+      <Extensions>js;vbscript;jscript</Extensions>
+    </Filter>
+    <Filter Include="Web Server Files">
+      <UniqueIdentifier>{73D59152-7DC8-4850-BEB2-FD7A7927C6AC}</UniqueIdentifier>
+      <Extensions>exe;pdb</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CalculatorWeb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wintempla.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Index.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CalculatorDlgDual.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CalculatorWeb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wintempla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Index.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CalculatorDlgDual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CalculatorWeb.def">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="WebSiteIcon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Index.js">
+      <Filter>Script Files</Filter>
+    </None>
+    <None Include="Wintempla.js">
+      <Filter>Script Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CalculatorWeb.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="CalculatorWeb.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="blue.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+    <None Include="cyan.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+    <None Include="gray.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+    <None Include="green.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+    <None Include="orange.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+    <None Include="pink.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+    <None Include="purple.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+    <None Include="yellow.css">
+      <Filter>Style Sheet Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="WebServer.exe">
+      <Filter>Web Server Files</Filter>
+    </None>
+    <None Include="WebServer.pdb">
+      <Filter>Web Server Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
